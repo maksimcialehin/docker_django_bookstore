@@ -10,6 +10,7 @@ django-allauth = "==0.43.0"
 django-crispy-forms = "==1.14.0"
 environs = {version = "==9.5.0", extras = ["django"]}
 python-dotenv = "*"
+pillow = "==9.3.0"
 
 [dev-packages]
 
