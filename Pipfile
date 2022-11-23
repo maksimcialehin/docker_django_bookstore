@@ -11,6 +11,7 @@ django-crispy-forms = "==1.14.0"
 environs = {version = "==9.5.0", extras = ["django"]}
 python-dotenv = "*"
 pillow = "==9.3.0"
+django-debug-toolbar = "==2.2"
 
 [dev-packages]
 
